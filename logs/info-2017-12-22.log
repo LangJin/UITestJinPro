@@ -1,0 +1,15 @@
+2017-12-22 00:00:21,765 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.914743423461914 seconds
+2017-12-22 00:00:25,911 - root - INFO - SUCCESS    Navigated to http://www.google.com, Spend 4.13868260383606 seconds
+2017-12-22 00:01:16,297 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.9635863304138184 seconds
+2017-12-22 00:01:20,915 - root - INFO - SUCCESS    Navigated to http://www.google.com, Spend 4.609436988830566 seconds
+2017-12-22 00:01:20,924 - root - INFO - FAIL    Unable to click element: <sss>, Spend 0.0 seconds
+2017-12-22 00:05:25,129 - root - INFO - SUCCESS    Start a new browser: chrome11, Spend 0.0 seconds
+2017-12-22 00:05:25,136 - root - INFO - FAIL    Unable to load http://www.google.com, Spend 0.0 seconds
+2017-12-22 00:07:37,934 - root - INFO - SUCCESS    Start a new browser: chrome11, Spend 0.0 seconds
+2017-12-22 00:07:37,945 - root - INFO - FAIL    Unable to load http://www.google.com, Spend 0.0 seconds
+2017-12-22 00:08:08,040 - root - INFO - SUCCESS    Start a new browser: chrome11, Spend 0.0 seconds
+2017-12-22 00:08:08,047 - root - INFO - FAIL    Unable to load http://www.google.com, Spend 0.0 seconds
+2017-12-22 00:12:30,280 - root - INFO - SUCCESS    Start a new browser: chrome11, Spend 0.0 seconds
+2017-12-22 00:12:30,299 - root - INFO - FAIL    Unable to load http://www.google.com, Spend 0.0 seconds
+2017-12-22 00:16:00,740 - root - INFO - SUCCESS    Start a new browser: chrome11, Spend 0.0 seconds
+2017-12-22 00:16:00,756 - root - INFO - FAIL    Unable to load http://www.google.com, Spend 0.0 seconds

@@ -1,0 +1,6 @@
+2017-12-22 00:01:20,932 - root - ERROR - FAIL    Unable to click element: <sss>, Spend 0.008039712905883789 seconds
+2017-12-22 00:05:25,143 - root - ERROR - FAIL    Unable to load http://www.google.com, Spend 0.0070002079010009766 seconds
+2017-12-22 00:07:37,951 - root - ERROR - FAIL    Unable to load http://www.google.com, Spend 0.006026268005371094 seconds
+2017-12-22 00:08:08,054 - root - ERROR - FAIL    Unable to load http://www.google.com, Spend 0.0070002079010009766 seconds
+2017-12-22 00:12:30,299 - root - ERROR - FAIL    Unable to load http://www.google.com, Spend 0.0004999637603759766 seconds
+2017-12-22 00:16:00,756 - root - ERROR - FAIL    Unable to load http://www.google.com, Spend 0.0 seconds
