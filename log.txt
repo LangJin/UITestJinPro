@@ -1,2 +1,0 @@
-2017-12-22 00:33:05,541 - run.setLogger.27 - INFO - hello world, i'm log helper in python, may i help you
-2017-12-22 00:35:07,442 - run.setLogger.27 - INFO - hello world, i'm log helper in python, may i help you

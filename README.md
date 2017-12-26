@@ -8,3 +8,4 @@
 参考了小石头的https://github.com/xiaoshitoutester/UItestframework
 
 以上、感谢。
+这个框架，暂时没时间弄，等我几天，理理思路。
