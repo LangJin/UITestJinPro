@@ -1,0 +1,18 @@
+2017-12-27 10:45:06,652 - root - INFO - ############################### START ###############################
+2017-12-27 10:45:10,273 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.620911121368408 seconds
+2017-12-27 10:45:11,414 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1253788471221924 seconds
+2017-12-27 10:45:12,806 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 1.3756744861602783 seconds
+2017-12-27 10:45:12,823 - root - INFO - SUCCESS    Get current window title 百度一下，你就知道, Spend 0.009951353073120117 seconds
+2017-12-27 10:45:13,993 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.1628739833831787 seconds
+2017-12-27 10:45:14,004 - root - INFO - SUCCESS    Get current window title 百度一下，你就知道, Spend 0.0060002803802490234 seconds
+2017-12-27 10:45:17,207 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.198035478591919 seconds
+2017-12-27 10:45:17,207 - root - INFO - ###############################  End  ###############################
+2017-12-27 10:49:40,886 - root - INFO - ############################### START ###############################
+2017-12-27 10:49:44,489 - root - INFO - SUCCESS    Start a new browser: chrome, Spend 3.6036384105682373 seconds
+2017-12-27 10:49:45,623 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.1186208724975586 seconds
+2017-12-27 10:49:47,085 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 1.4455795288085938 seconds
+2017-12-27 10:49:47,103 - root - INFO - SUCCESS    Get current window title 百度一下，你就知道, Spend 0.01065206527709961 seconds
+2017-12-27 10:49:50,265 - root - INFO - SUCCESS    Navigated to http://www.baidu.com, Spend 0.15034246444702148 seconds
+2017-12-27 10:49:50,274 - root - INFO - SUCCESS    Get current window title 百度一下，你就知道, Spend 0.005971431732177734 seconds
+2017-12-27 10:49:53,421 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.139962911605835 seconds
+2017-12-27 10:49:53,421 - root - INFO - ###############################  End  ###############################

@@ -7,3 +7,5 @@
 # pro_path = 'F:/MyPython/UITestJinPro'
 pro_path = 'F:/TestGoGo/UITestJinPro'
 log_paths = pro_path + '/logs/'
+browser = 'chrome'
+report_paths = pro_path + '/reports/'
