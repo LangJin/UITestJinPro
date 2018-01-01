@@ -53,3 +53,14 @@ def codeimg():
     optCode = pytesseract.image_to_string(image)
     # 打印出验证码
     print(optCode)
+
+
+def js():
+    '''
+    设置被测网站的session，实现登陆。
+    localStorage.setItem('token', '具体值');
+    '''
+    js = "localStorage.setItem('token', '具体值');"
+    driver = webdriver.Chrome()
+    driver.get("www.xxxx.com")
+    driver.execute_script(js)
